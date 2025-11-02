@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-
 💻 I'm a passionate **tech enthusiast** and **developer in progress** who loves exploring programming, problem-solving, and building cool projects.  
 🚀 Currently focused on improving my **Python**, **DSA**, and **Web Development** skills.  
 📚 Learning every day to become a **Software Developer** — aiming to join top companies like **Zoho**.  
@@ -39,7 +38,23 @@ I’m planning to explore and master:
 - Gmail: [Email](s.sudha19082006@gmail.com)
 ---
 
+  <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sudha-sudalaimani&theme=tokyonight" alt="Sudha's GitHub Streak" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sudha-sudalaimani&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Top Languages" height="180em" />
+</p>
+
+
+
+
+---
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sudha-sudalaimani&bg_color=0d1117&color=fcff57&line=1f6feb&point=58a6ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-⭐ *"Code, Learn, and Grow — Every Single Day!"*
+<p align="center">
+  <img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Sudha-sudalaimani&repo=Sudha-sudalaimani&countColor=%237B1E7B" alt="Profile Visitors"/>
+</p>
+
+
+
+<p align="center">⭐ <b><i>"Code, Learn, and Grow — Every Single Day!"</i></b></p>
 
