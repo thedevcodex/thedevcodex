@@ -39,7 +39,7 @@ I’m planning to explore and master:
 ---
 
   <p align="center">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=thedevcodex&theme=tokyonight" alt="thedevcodex's GitHub Streak" height="180em" />
+   
    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thedevcodex&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Top Languages" height="180em" />
 
 </p>
