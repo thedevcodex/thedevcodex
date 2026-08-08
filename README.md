@@ -26,7 +26,7 @@
 
 **Other Tools:**  
 <img width="48" height="48" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/> 
-
+[![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
 ---
 
 ### Currently Exploring
