@@ -43,7 +43,7 @@
 ### 📫 Connect With Me
 - 🌐 GitHub:[GitHub](https://github.com/thedevcodex) <br>
 - 💼 LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/sudha-sudalaimani-0a551a322/)
-- Gmail: [Email](s.sudha19082006@gmail.com)
+- Gmail: [Email](mailto:s.sudha19082006@gmail.com)
 ---
 
   <p align="center">
