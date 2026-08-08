@@ -29,11 +29,14 @@
 <img width="48" height="48" src="https://img.icons8.com/color/48/intellij-idea.png" alt="intellij-idea"/>
 ---
 
-### 🚀 Future Learning Goals
-I’m planning to explore and master:  
-🌐 Flask | Django <br>
-📊 Advanced Data Science & Machine Learning Concepts  
-🧠 Problem Solving and Competitive Programming  
+### Currently Exploring
+
+- 🤖 Machine Learning & Artificial Intelligence
+- 🧠 Deep Learning
+- 📊 Advanced Data Science
+- 💬 Generative AI & LLMs
+- 🔎 Natural Language Processing
+- ☁️ ML Model Deployment 
 
 ---
 
