@@ -46,16 +46,7 @@
 - Gmail: [Email](mailto:s.sudha19082006@gmail.com)
 ---
 
-  <p align="center">
-   
-   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thedevcodex&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Top Languages" height="180em" />
-
-</p>
-
-
-
-
----
+ 
 
 [![thedevcodex's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=thedevcodex&bg_color=0d1117&color=fcff57&line=1f6feb&point=58a6ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
