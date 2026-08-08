@@ -1,10 +1,14 @@
-## Hi there 👋
+Hi there 👋
 
-💻 I'm a passionate **tech enthusiast** and **developer in progress** who loves exploring programming, problem-solving, and building cool projects.  
-🚀 Currently focused on improving my **Python**, **DSA**, and **Web Development** skills.  
-📚 Learning every day to become a **Software Developer** — aiming to join top companies like **Zoho**.  
-🧠 Interested in **Data Science**, and  **Development** .  
-🎯 My goal is to master coding, think logically, and build real-world projects that make a difference.  
+💻 I'm a passionate Data Science & AI enthusiast who loves working with data, building machine learning models, and exploring how AI can solve real-world problems.
+
+🚀 Currently focused on improving my skills in Python, Data Science, Machine Learning, SQL, and Data Analytics.
+
+📊 I enjoy exploring datasets, performing EDA, building predictive models, and turning data into meaningful insights.
+
+🧠 Currently exploring Artificial Intelligence, Machine Learning, Deep Learning, and Generative AI.
+
+🎯 My goal is to become a skilled Data Scientist / Machine Learning Engineer by continuously learning, practicing, and building real-world projects. 
 
 ---
 
